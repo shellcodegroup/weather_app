@@ -14,5 +14,8 @@ Custom Locations: Add and save multiple locations to track weather conditions in
 Screenshots
 
 ![Cover image](cover.png)
-![LightMode image](day.png)
-![DarkMode image](night.png)
+<p float="left">
+  <img src="day.png" width="250" />
+  <img src="night.png" width="250" /> 
+  <!-- Add more images as needed -->
+</p>
